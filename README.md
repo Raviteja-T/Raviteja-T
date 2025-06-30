@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm TIRUMALAPUDI RAVITEJA
-
+# 👋 Hi, I'm Raviteja 
 🎓 Researcher | 🤖 Robotics Engineer | 🔬 AI & Automation Specialist  
 📍 Based in India
 📫 Contact: t.raviteja@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/raviteja-t-2514aa227)
