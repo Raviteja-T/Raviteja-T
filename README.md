@@ -12,7 +12,7 @@ Currently, I work as a **Principal Executive** in India, previously a **Research
 
 My expertise spans:
 
-- 🤖 Industrial & Legged Robots (UR10, Unitree Go2, H1-2)
+- 🤖 Industrial & Legged Robots (UR, Unitree Go2, H1-2)
 - 📡 Perception Systems (LiDAR, RealSense, RGB-D, OpenCV)
 - 🔧 Hardware Integration & Motion Planning
 - 🌍 ROS / ROS 2, Jetson, TensorFlow, PyTorch
